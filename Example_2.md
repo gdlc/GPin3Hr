@@ -54,7 +54,7 @@ We load the wheat data set in the BGLR package, extract one phenotype, scale and
 ```
 
 
-**2b) Extracting estimates **
+**2b) Extracting estimates**
 
 ```r
   dim(fmL$b) #estimated effects over the regularization path
